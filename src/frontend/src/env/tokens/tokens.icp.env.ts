@@ -59,8 +59,8 @@ export const TESTICP_TOKEN: RequiredToken<Omit<IcToken, 'deprecated' | 'explorer
 	decimals: 8,
 	icon: icpLight,
 	fee: 10_000n,
-	ledgerCanisterId: 'xafvr-biaaa-aaaai-aql5q-cai',
-	indexCanisterId: 'qcuy6-bqaaa-aaaai-aqmqq-cai'
+	ledgerCanisterId: 'ryjl3-tyaaa-aaaaa-aaaba-cai',
+	indexCanisterId: 'qhbym-qaaaa-aaaaa-aaafq-cai'
 };
 
 export const SUPPORTED_ICP_TOKENS: RequiredToken<Omit<IcToken, 'deprecated' | 'explorerUrl'>>[] =

@@ -27,8 +27,8 @@ cat <<EOF >"$ARGS_FILE"
       transfer_fee = opt record {
         e8s = 10_000 : nat64;
       };
-      token_symbol = opt "TESTICP";
-      token_name = opt "Test ICP";
+      token_symbol = opt "LICP";
+      token_name = opt "Local ICP";
     }
   })
 EOF
